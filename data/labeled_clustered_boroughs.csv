@@ -1,0 +1,34 @@
+Borough,id,avg_price,crime_rate,label,cluster
+Barking and Dagenham,25,254011,93,"Low Price, High Crime",10
+Barnet,31,423709,70,"High Price, Low Crime",6
+Bexley,23,253303,64,"Low Price, Low Crime",7
+Brent,12,435200,90,"High Price, High Crime",6
+Bromley,20,315065,68,"Low Price, Low Crime",1
+Camden,11,766533,132,"High Price, High Crime",0
+Croydon,19,285205,86,"Low Price, Low Crime",10
+Ealing,13,415432,85,"High Price, Low Crime",6
+Enfield,30,298484,89,"Low Price, High Crime",10
+Greenwich,22,367510,91,"Low Price, High Crime",9
+Hackney,9,573160,108,"High Price, High Crime",8
+Hammersmith and Fulham,4,659591,106,"High Price, High Crime",8
+Haringey,29,512570,105,"High Price, High Crime",11
+Harrow,32,340199,60,"Low Price, Low Crime",1
+Havering,24,250089,74,"Low Price, Low Crime",7
+Hillingdon,33,289249,87,"Low Price, Low Crime",10
+Hounslow,14,351350,88,"Low Price, Low Crime",9
+Islington,10,611781,116,"High Price, High Crime",8
+Kensington and Chelsea,3,1149307,132,"High Price, High Crime",5
+Kingston upon Thames,16,368816,66,"Low Price, Low Crime",1
+Lambeth,6,474129,103,"High Price, High Crime",11
+Lewisham,21,371900,90,"Low Price, High Crime",9
+Merton,17,415881,67,"High Price, Low Crime",6
+Newham,27,377717,99,"Low Price, High Crime",9
+Redbridge,26,318893,79,"Low Price, Low Crime",10
+Richmond upon Thames,15,503826,60,"High Price, Low Crime",4
+Southwark,7,467070,108,"High Price, High Crime",11
+Sutton,18,283906,65,"Low Price, Low Crime",7
+Tower Hamlets,8,451219,100,"High Price, High Crime",11
+Waltham Forest,28,377368,81,"Low Price, Low Crime",9
+Wandsworth,5,520219,72,"High Price, Low Crime",4
+Westminster,2,1756778,298,"High Price, High Crime",3
+City of London,1,885655,819,"High Price, High Crime",2
